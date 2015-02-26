@@ -13,3 +13,6 @@
 [submodule "KiwiDsp"]
 	path = KiwiDsp
 	url = https://pierreguillot@github.com/KiwiMusic/KiwiDsp.git
+[submodule "KiwiWrapper"]
+	path = KiwiWrapper
+	url = https://pierreguillot@github.com/KiwiMusic/KiwiWrapper.git
