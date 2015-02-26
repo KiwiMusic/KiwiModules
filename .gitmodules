@@ -10,3 +10,6 @@
 [submodule "KiwiPatcher"]
 	path = KiwiPatcher
 	url = https://pierreguillot@github.com/KiwiMusic/KiwiPatcher.git
+[submodule "KiwiDsp"]
+	path = KiwiDsp
+	url = https://pierreguillot@github.com/KiwiMusic/KiwiDsp.git
