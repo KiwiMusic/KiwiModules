@@ -7,3 +7,6 @@
 [submodule "KiwiObjects"]
 	path = KiwiObjects
 	url = https://pierreguillot@github.com/KiwiMusic/KiwiObjects.git
+[submodule "KiwiPatcher"]
+	path = KiwiPatcher
+	url = https://pierreguillot@github.com/KiwiMusic/KiwiPatcher.git
